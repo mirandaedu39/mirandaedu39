@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mirandaedu39
-- 👀 I’m interested in club athletico paranaense
+- 👋 Hi, I’m miranda
+- 👀 I’m interested in volley
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
