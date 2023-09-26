@@ -1,8 +1,8 @@
 - 👋 Hi, I’m miranda
 - 👀 I’m interested in volley
 - 🌱 I’m currently learning at the school
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate everything possible
+- 📫 How to reach me @eduzxy
 
 <!---
 mirandaedu39/mirandaedu39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
