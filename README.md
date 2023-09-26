@@ -1,7 +1,8 @@
 - 👋 Hi, I’m miranda
 - 👀 I’m interested in volley
-- 🌱 I’m currently learning at the school
-- 💞️ I’m looking to collaborate everything possible
+- 🌱 I’m currently learning at alura
+- 💞️ I’m looking to
+  
 - 📫 How to reach me @eduzxy
 
 <!---
